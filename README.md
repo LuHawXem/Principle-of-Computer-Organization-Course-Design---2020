@@ -1,5 +1,5 @@
 # Principle of Computer Composition Course Design - 2020
-### 广州大学计算机组成原理课程设计
+### 广州大学计算机组成原理课程设计——LuHawXem
 
 #### 1. 课程设计的题目
 
