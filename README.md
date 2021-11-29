@@ -1,4 +1,4 @@
-# Principle of Computer Composition Course Design - 2020
+# Principle of Computer Organization Course Design - 2020
 ### 计算机组成原理课程设计
 
 #### 1. 课程设计的题目
